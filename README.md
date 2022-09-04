@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-lucasmanesco-red.svg)](https://www.linkedin.com/in/lucas-manesco) [![](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/)
 
 <p align="center">
-  <img src="python-developer.jpeg" >
+  <img src="0f6fa179-6d5b-4949-bcba-a1a89f9d6da9.jpg" >
 </p>
 
 # Lucas Manesco
