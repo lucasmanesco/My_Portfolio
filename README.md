@@ -23,7 +23,7 @@ Technology and innovation lover, always looking for continuous learning. #lifelo
 
 ## Projects:
 
-* **Análise de Dados de Vendas de uma Empresa:** https://bit.ly/3RjRWbK
+* **Sales Data Analysis:** https://bit.ly/3RjRWbK
 
 ---
 
