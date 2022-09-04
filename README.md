@@ -4,7 +4,7 @@
   <img src="banner.png" >
 </p>
 
-# Carlos Melo
+# Lucas Manesco
 <sub>*Python Developer | Data Scientist*</sub>
 
 Control and Automation Engineer in Carrer Transition
@@ -21,7 +21,7 @@ Technology and innovation lover, always looking for continuous learning. #lifelo
 * [LinkedIn](https://www.linkedin.com/in/lucas-manesco)
 * [GitHub](https://github.com/lucasmanesco)
 
-## Projects until now:
+## Projects:
 
 * **Análise de Dados de Vendas de uma Empresa:** https://bit.ly/3RjRWbK
 
