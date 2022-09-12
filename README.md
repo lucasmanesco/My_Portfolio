@@ -24,6 +24,7 @@ Technology and innovation lover, always looking for continuous learning. #lifelo
 ## Projects:
 
 * **Sales Data Analysis:** https://bit.ly/3RjRWbK
+* **AirBNB London Data Analysis:** https://bit.ly/3qBQCoQ
 
 ---
 
