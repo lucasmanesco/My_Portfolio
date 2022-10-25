@@ -25,7 +25,7 @@ Technology and innovation lover, always looking for continuous learning. #lifelo
 
 * **Sales Data Analysis:** https://bit.ly/3RjRWbK
 * **AirBNB London Data Analysis:** https://bit.ly/3qBQCoQ
-* **WebScrapping - Cotação Dólar:** https://bit.ly/3TULlWo
+* **WebScrapping - US Dollar/BRL Real Daily:** https://bit.ly/3TULlWo
 
 ---
 
