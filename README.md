@@ -27,8 +27,7 @@ Technology and innovation lover, always looking for continuous learning. #lifelo
 * **AirBNB London Data Analysis:** https://bit.ly/3qBQCoQ
 * **WebScrapping - US Dollar/BRL Real Daily:** https://bit.ly/3TULlWo
 * **Blur and anonymize faces with OpenCV and Python:** https://bit.ly/3jcawXN
-
-
+* **Calculator using PySide6 (Python GUI):** http://bit.ly/3PodBkZ
 
 ---
 
